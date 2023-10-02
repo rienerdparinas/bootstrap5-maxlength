@@ -1,4 +1,4 @@
-# bootstrap5-togglepassword
+# bootstrap5-maxlength
 
 Maximum Length v1.0.0
 
@@ -56,7 +56,7 @@ Sample code:
 
     <script src="assets/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/jquery-3.7.1.min.js"></script>
-    <script src="assets/js/maxchar.js"></script>
+    <script src="assets/js/maxlength.js"></script>
     <script>
         $(() => {
 
