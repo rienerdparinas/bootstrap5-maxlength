@@ -13,7 +13,7 @@ Works with the following dependencies:
 How to use:
 1. Add Bootstrap CSS and Bootstrap Icons CSS files to your <head> tag
 2. Add jQuery JS file to your <body> tag, preferable at the end of the body
-3. Add the bootstrap5-togglepassword JS file after the jQuery script
+3. Add the bootstrap5-maxlength JS file after the jQuery script
 4. Include the line on your Document Load event:
    $('[maxlength]').maxlength();
 
@@ -36,7 +36,7 @@ Sample code:
         <div class="bg-body-secondary d-flex align-items-center justify-content-center vh-100 p-3">
             <div class="card w-100" style="max-width: 20rem;">
                 <div class="card-body">
-                    <form data-role="form" data-action="action/login" autocomplete="off">
+                    <form data-role="form" data-action="action/submit" autocomplete="off">
                         <fieldset>
                             <div class="mb-3">
                                 <label class="form-label" for="username">Username</label>
